@@ -30,7 +30,7 @@ The Aegis Client requires zero complex configuration. Simply provide your target
 ```bash
 export OPENAI_API_KEY="your-openai-key"
 export AEGIS_AGENT_ID="your_enterprise_user_id"
-export AEGIS_CONTROL_PLANE_URL="https://aegis-live-node.onrender.com" # Or your self-hosted Aegis instance
+export AEGIS_CONTROL_PLANE_URL="[https://aegis-live-node.onrender.com](https://aegis-live-node.onrender.com)" # Or your self-hosted Aegis instance
 ```
 
 ### 3. Run the Live-Fire Test
